@@ -1,11 +1,8 @@
-// Импортируем хук
 import { useSelector, useDispatch } from 'react-redux';
 import { Button } from 'components/Button/Button';
-// Импортируем генератор экшена
-import { setStatusFilter } from '../../redux/actions';
-// Импортируем объект значений фильтра
-import { statusFilters } from '../../redux/constants';
-import { getStatusFilter } from '../../redux/selectors';
+import { statusFilters } from 'redux/constants';
+import { getStatusFilter } from 'redux/selectors';
+import { setStatusFilter } from 'redux/filtersSlice';
 import css from './StatusFilter.module.css';
 
 export const StatusFilter = () => {
