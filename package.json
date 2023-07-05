@@ -1,8 +1,8 @@
 {
-  "name": "react-textbook",
+  "name": "redux-toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tetiana892.github.io/react-textbook/",
+  "homepage": "https://Tetiana892.github.io/redux-toolkit/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.5",
