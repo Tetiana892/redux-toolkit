@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-textbook/static/css/main.aaaf48ca.css",
-    "main.js": "/react-textbook/static/js/main.b301d307.js",
-    "index.html": "/react-textbook/index.html",
-    "main.aaaf48ca.css.map": "/react-textbook/static/css/main.aaaf48ca.css.map",
-    "main.b301d307.js.map": "/react-textbook/static/js/main.b301d307.js.map"
+    "main.css": "/redux-toolkit/static/css/main.aaaf48ca.css",
+    "main.js": "/redux-toolkit/static/js/main.b301d307.js",
+    "index.html": "/redux-toolkit/index.html",
+    "main.aaaf48ca.css.map": "/redux-toolkit/static/css/main.aaaf48ca.css.map",
+    "main.b301d307.js.map": "/redux-toolkit/static/js/main.b301d307.js.map"
   },
   "entrypoints": [
     "static/css/main.aaaf48ca.css",
